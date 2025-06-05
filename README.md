@@ -33,8 +33,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,c,cpp,markdown,git,linux,html,css,react" />
 </p>
 
----
-
+<!--
 ### 📬 Let's Connect
 
 <p align="left">
@@ -53,7 +52,7 @@
   <img src="https://github.com/telegramdesktop/tdesktop/raw/dev/Telegram/Resources/art/logo_256.png" width="20" style="vertical-align: middle; margin: 0 6px;">
   <a href="https://t.me/bot2creature" target="_blank"><b>@bot2creature</b></a>
 </p>
-
+-->
 
 
 
