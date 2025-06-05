@@ -53,7 +53,8 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/vrypan/farcaster-brand/main/icons/icon-rounded/purple-white.png" width="20" style="vertical-align: middle; margin-right: 6px;">
-  <a href="https://farcaster.xyz/shrutig" target="_blank"><b>@shrutig</_
+  <a href="https://farcaster.xyz/shrutig" target="_blank"><b>@shrutig</b></a>
+</p>
 
 
 
