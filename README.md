@@ -38,23 +38,21 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" width="20" style="vertical-align: middle; margin-right: 6px;">
-  <a href="https://github.com/Shru" target="_blank"><b>Shru</b></a>
+  <a href="https://github.com/Shru" target="_blank"><b>Shru</b></a>,
+  
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" style="vertical-align: middle; margin: 0 6px;">
+  <a href="https://www.linkedin.com/in/shruti-gangadhar" target="_blank"><b>shruti-gangadhar</b></a>,
+
+  <img src="https://skillicons.dev/icons?i=twitter" width="20" style="vertical-align: middle; margin: 0 6px;">
+  <a href="https://x.com/shrut_g" target="_blank"><b>@shrut_g</b></a>,
+
+  <img src="https://raw.githubusercontent.com/vrypan/farcaster-brand/main/icons/icon-rounded/purple-white.png" width="20" style="vertical-align: middle; margin: 0 6px;">
+  <a href="https://farcaster.xyz/shrutig" target="_blank"><b>@shrutig</b></a>,
+
+  <img src="https://github.com/telegramdesktop/tdesktop/raw/dev/Telegram/Resources/art/logo_256.png" width="20" style="vertical-align: middle; margin: 0 6px;">
+  <a href="https://t.me/bot2creature" target="_blank"><b>@bot2creature</b></a>
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="20" style="vertical-align: middle; margin-right: 6px;">
-  <a href="https://www.linkedin.com/in/shruti-gangadhar" target="_blank"><b>shruti-gangadhar</b></a>
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=twitter" width="20" style="vertical-align: middle; margin-right: 6px;">
-  <a href="https://x.com/shrut_g" target="_blank"><b>@shrut_g</b></a>
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/vrypan/farcaster-brand/main/icons/icon-rounded/purple-white.png" width="20" style="vertical-align: middle; margin-right: 6px;">
-  <a href="https://farcaster.xyz/shrutig" target="_blank"><b>@shrutig</b></a>
-</p>
 
 
 
