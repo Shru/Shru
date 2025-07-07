@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shruti 👋</h1>
 
-
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/Shru)
 
 ### 🎓 **Education**  
 • MS in Electrical & Computer Engineering from **[UNC Charlotte](https://ece.charlotte.edu/)**
