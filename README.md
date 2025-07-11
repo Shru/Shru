@@ -9,6 +9,7 @@
 • **Fellow @ [dev3pack](https://dev3pack.xyz/)**
   - Learning web3, open source software contribution, hackathons
   - Member of many web3 communities
+  - Shefi S14 scholar
 
 • **EigenAlpha @ [EigenLayer](https://www.eigenlayer.xyz/)**
   - < 3% acceptance rate  
