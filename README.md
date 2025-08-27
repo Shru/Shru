@@ -10,7 +10,6 @@
   - Learning web3, open source software contribution, hackathons
   - Member of many web3 communities
   - Shefi S14 scholar
-  - Talent Protocol Score: [114](https://app.talentprotocol.com/8259ecc0-4e3a-4f99-8172-8dcb89773868)
 
 • **EigenAlpha @ [EigenLayer](https://www.eigenlayer.xyz/)**
   - < 3% acceptance rate  
